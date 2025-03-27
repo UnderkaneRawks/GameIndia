@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MG9x39YHHI6d3BiIjPbSH48TFTwZon0KGy27k+dEtJg=",
+  "Source": "GameIndiaAPI",
+  "BasePath": "_content/GameIndiaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
